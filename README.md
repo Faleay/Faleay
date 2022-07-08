@@ -3,6 +3,6 @@ I am a Russian student who really wants to learn everything about creating appli
 At the moment I know very little, but I am ready to learn everything in a big way.
 
 
-- 👀 I’m interested in web-development and game-dev
-- 🌱 I’m currently learning C#, Python and development in Unity
+- 👀 I’m interested in back-end and game-dev
+- 🌱 I’m currently learning C# (Basics, Winforms/WPF, C# in Unity), Python (Basics, Pygame, PyQt)
 - 📫 How to reach me anbroid03@gmail.com
