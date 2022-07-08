@@ -4,5 +4,5 @@ At the moment I know very little, but I am ready to learn everything in a big wa
 
 
 - 👀 I’m interested in web-development and game-dev
-- 🌱 I’m currently learning C#, JS(with HTML and CSS) and Unity
+- 🌱 I’m currently learning C#, Python and development in Unity
 - 📫 How to reach me anbroid03@gmail.com
