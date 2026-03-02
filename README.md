@@ -2,7 +2,7 @@
 Hey everyone! I'm Russian student who wants to find my profession in IT sphere.
 
 Now I'm learning Java to create Minecraft mods...
-But also I'm very interested in game-dev on Godot which means another language is needed to me and this language is C# or GDSript.
+But also I'm very interested in game-dev on bevy which means another language is needed to me and this language is rust.
 I will update information about myself as I search for my profession in IT.
 
 ## My repositories
